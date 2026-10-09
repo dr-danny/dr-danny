@@ -1,4 +1,4 @@
-<p><img src="./profile-identity.gif" width="100%" alt="Danny Mehditash. Security engineer and Co-Founder at MARFI Systems. Offworld Ventures AI venture studio. GWU doctoral research: M2SBF." /></p>
+<p><img src="./profile-identity-v2.gif" width="100%" alt="Danny Mehditash. Full-Stack Engineer, Security Architect & Founder. Co-Founder at MARFI Systems. Offworld Ventures AI venture studio. GWU doctoral research: M2SBF." /></p>
 
 ### Selected work
 
